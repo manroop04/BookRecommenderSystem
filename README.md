@@ -42,6 +42,11 @@ A web application that recommends books based on user preferences using collabor
 
 ## 🖼️ Screenshots
 
+![image](https://github.com/user-attachments/assets/390206a8-abd1-49f7-929f-1f3ffb4b264b)
+
+
+![image](https://github.com/user-attachments/assets/45338e9e-f6f4-4ccb-a8f1-654f76bf76b4)
+
 
 ## 🧠 How It Works
 
